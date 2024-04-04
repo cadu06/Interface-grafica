@@ -11,8 +11,4 @@ public class Section2  extends  JFrame{
         setLocationRelativeTo(null);
         setVisible(true);
     }
-
-    public static void main(String[] args) {
-
-    }
 }
